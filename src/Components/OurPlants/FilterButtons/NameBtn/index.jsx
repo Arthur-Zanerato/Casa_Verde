@@ -1,12 +1,11 @@
 import { Button } from "../styles";
 
 const NameFilter = () => {
-  const OrderName
 
   return (
     <>
       <Button>
-        <button onClick={OrderName}>Nome</button>
+        <button onClick={""}>Nome</button>
       </Button>
     </>
   );
